@@ -1,2 +1,2 @@
 # MonsterTown
-learning swift fundamentals
+IOS Training - learning swift fundamentals
